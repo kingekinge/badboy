@@ -1,0 +1,16 @@
+[RES]
+1\RESFILE=/Users/king/Documents/xspworkspace/badboy/xsp/res/QQ.png
+2\RESFILE=/Users/king/Documents/xspworkspace/badboy/xsp/res/\x5fae\x4fe1.png
+3\RESFILE=/Users/king/Documents/xspworkspace/badboy/xsp/res/\x5fae\x535a.png
+size=3
+
+[SOURCE]
+1\SOURCEFILE=/Users/king/Documents/xspworkspace/badboy/xsp/src/main.lua
+2\SOURCEFILE=/Users/king/Documents/xspworkspace/badboy/xsp/src/Utils.lua
+3\SOURCEFILE=/Users/king/Documents/xspworkspace/badboy/xsp/src/\x9634\x9633\x5e08.lua
+size=3
+
+[UI]
+1\UIFILE=/Users/king/Documents/xspworkspace/badboy/xsp/ui/ui.json
+2\UIFILE=/Users/king/Documents/xspworkspace/badboy/xsp/ui/ui2.json
+size=2
