@@ -44,6 +44,7 @@ for k, v in pairs(results) do
 end
 
 
+--模糊找色
 x, y = findColorInRegionFuzzy(0x1d7af3, 100, 217, 222, 256, 267)
 if x > -1 then
 	tap(x,p)
