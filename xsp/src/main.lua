@@ -50,6 +50,8 @@ if x > -1 then
 	tap(x,p)
 end
  dialog("没有",0)
+ 
+ -- orc 罩找字
 
 
 
