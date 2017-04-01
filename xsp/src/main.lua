@@ -51,7 +51,8 @@ if x > -1 then
 end
  dialog("没有",0)
  
- -- orc 罩找字
+ -- ocr  屏幕找字
+ 
 
 
 
